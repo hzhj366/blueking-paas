@@ -55,7 +55,7 @@
     "axios": "^0.19.0",
     "bk-magic-vue": "^2.3.1",
     "codemirror": "^5.65.5",
-    "cookie": "^0.3.1",
+    "cookie": "^0.5.0",
     "core-js": "^3.3.3",
     "cross-env": "^7.0.3",
     "jquery.json-viewer": "^1.1.0",
