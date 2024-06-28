@@ -32,7 +32,7 @@
     "cookie": "^0.3.1",
     "cross-env": "^7.0.3",
     "dayjs": "^1.8.19",
-    "echarts": "^3.6.1",
+    "echarts": "^5.5.1",
     "enhanced-resolve": "^5.10.0",
     "eventsource-polyfill": "^0.9.6",
     "express": "^4.15.3",
