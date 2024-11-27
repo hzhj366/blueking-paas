@@ -24,7 +24,7 @@
     "@blueking/user-selector": "^1.0.5-beta.2",
     "@vue/composition-api": "^1.7.0",
     "ansi_up": "^4.0.4",
-    "axios": "^0.24.0",
+    "axios": "^1.7.8",
     "bk-magic-vue": "2.4.15-beta.21",
     "chalk": "^1.1.3",
     "clipboard": "^1.7.1",
